@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="346">
+  <defs>
+    <rect id="a" width="536" height="346" rx="8"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#E8EAF6" fill-rule="nonzero" xlink:href="#a"/>
+    <g mask="url(#b)">
+      <g transform="translate(88.47 115.197)">
+        <circle cx="16" cy="26" r="16" fill="#F98E5D"/>
+        <rect width="88" height="6" x="284" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="20" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="40" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="60" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="94" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="114" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="88" height="6" x="284" y="134" fill="#F58025" opacity=".25" rx="3"/>
+        <rect width="64" height="6" x="47" y="30" fill="#F58025" opacity=".25" rx="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
